@@ -15,6 +15,7 @@
 .DS_Store
 .prettierignore
 
+# Helper files
 design/
 style-guide.md
 README-template.md
