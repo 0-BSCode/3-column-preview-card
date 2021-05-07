@@ -1,7 +1,7 @@
 # Frontend Mentor - 3-column preview card component
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
-
+Solution Link: https://bry-cmd.github.io/3-column-preview-card/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
